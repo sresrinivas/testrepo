@@ -12,12 +12,12 @@
     <repository>
         <id>central</id>
         <name>ip-172-31-10-127.ap-south-1.compute.internal-releases</name>
-        <url>http://3.110.217.152:8081/artifactory/testrepo</url>
+        <url>http://3.110.217.152:8081/artifactory/testdemo</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>ip-172-31-10-127.ap-south-1.compute.internal-snapshots</name>
-        <url>http://3.110.217.152:8081/artifactory/testrepo</url>
+        <url>http://3.110.217.152:8081/artifactory/testdemo</url>
     </snapshotRepository>
 </distributionManagement>
   <dependencies>
